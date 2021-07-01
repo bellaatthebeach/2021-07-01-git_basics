@@ -10,3 +10,8 @@
 - `git diff HEAD~<NUM> <FILE>`: compares current file to file<NUM> revisions ago
 	- `git diff <HASH> <FILE>`: compares current file (at head) to <HASH> version
 
+# remotes
+- `ssh-keygen`: create ssh keys (once)
+- `git remote add <URL>`: adds the URL
+- `git push origin main`: push to the main branch to the origin remote
+	
